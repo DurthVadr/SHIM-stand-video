@@ -1,5 +1,13 @@
 # SHIM Stand Video
 
+> **Disclaimer — this is not a live gateway.** Everything you see is a
+> client-side animation: organisations, request volumes, dollar savings, PII
+> events, latencies, model responses, and timestamps are generated locally
+> from a seeded RNG. No HTTP request leaves the page, no provider is hit,
+> no real customer is observed. The file exists purely as a booth attractor
+> for the [SHIM.tech](https://getshim.tech) brand. The actual SHIM B2B AI
+> Gateway is a separate product available at getshim.tech.
+
 A single self-contained HTML file that, opened in Chrome at 1920×1080 and
 screen-recorded, produces a ~55-second looping marketing video for the
 [SHIM.tech](https://getshim.tech) booth at CVC Otel Bosphorus, Istanbul,

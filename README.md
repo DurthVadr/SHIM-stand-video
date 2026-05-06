@@ -34,6 +34,10 @@ external data — only Tailwind CSS and Google Fonts via CDN.
 
 ## Run it
 
+**Live preview:** https://durthvadr.github.io/SHIM-stand-video/
+
+Or run it locally:
+
 ```bash
 git clone https://github.com/DurthVadr/SHIM-stand-video.git
 cd SHIM-stand-video
